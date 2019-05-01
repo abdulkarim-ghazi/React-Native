@@ -1,0 +1,129 @@
+{
+		"code":"1",
+			"name":"History",
+			"description":"History Related Quizzes",
+      		"color":"#feec1c",
+			"quizzes":[
+				{
+					"code":"1",
+					"description":"Where is Cairo?",
+					"options":[
+						{
+							"code":"1",
+							"description":"In Syria"
+						},
+						{
+							"code":"2",
+							"description":"In Algeria"
+						},
+						{
+							"code":"3",
+							"description":"In Turkey"
+						},
+						{
+							"code":"4",
+							"description":"In Egypt"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Cairo is a city in Egypt"
+				},
+				{
+					"code":"2",
+					"description":"Who won WorldCup 1998?",
+					"options":[
+						{
+							"code":"1",
+							"description":"France"
+						},
+						{
+							"code":"2",
+							"description":"Austria"
+						},
+						{
+							"code":"3",
+							"description":"Italy"
+						},
+						{
+							"code":"4",
+							"description":"England"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"France won the WorldCup 1998"
+				},
+				{
+					"code":"3",
+					"description":"What is major gas in nature",
+					"options":[
+						{
+							"code":"1",
+							"description":"H2"
+						},
+						{
+							"code":"2",
+							"description":"O2"
+						},
+						{
+							"code":"3",
+							"description":"CO2"
+						},
+						{
+							"code":"4",
+							"description":"N2"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"N2 is the major gas in nature"
+				},
+				{
+					"code":"4",
+					"description":"How much is the speed of light",
+					"options":[
+						{
+							"code":"1",
+							"description":"15000 km/h"
+						},
+						{
+							"code":"2",
+							"description":"1000 km/h"
+						},
+						{
+							"code":"3",
+							"description":"300000 km/h"
+						},
+						{
+							"code":"4",
+							"description":"500000 km/h"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"The speed of light is 300000 km/h"
+				},
+				{
+					"code":"5",
+					"description":"Who is the discoverer of America?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Magellan"
+						},
+						{
+							"code":"2",
+							"description":"Cook"
+						},
+						{
+							"code":"3",
+							"description":"Christopher Columbus"
+						},
+						{
+							"code":"4",
+							"description":"Sir Francis Drake"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Christopher Columbus discovered America "
+				}
+			]
+		}
+
